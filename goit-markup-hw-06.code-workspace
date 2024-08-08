@@ -1,14 +1,16 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../goit-markup-hw-05/css"
-		},
-		{
-			"path": "../goit-markup-hw-05/images"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../goit-markup-hw-05/images"
+    },
+    {
+      "path": "../goit-markup-hw-05/css"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "goit-markup-hw-06"
+  }
 }
